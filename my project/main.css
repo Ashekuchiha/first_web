@@ -1,0 +1,56 @@
+body{
+    height: 70%;
+}
+div{
+    float: left;
+}
+.top{
+    background:linear-gradient(to right,#200122,#6f0000);
+    width: calc(100%);
+    height: 20vh;
+}
+.l{
+    background-color: lawngreen;
+    width: calc(35%);
+    height: 70vh;
+}
+.m{
+    background-image: url(cup.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+
+    width: calc(30%);
+    height: 70vh;
+}
+.r{
+    width: calc(35%);
+    height: 70vh;
+}
+.b{
+    background-color: black;
+    width: calc(100%);
+    height: 10vh;
+}
+.grass{
+    width: calc(100%);
+    height: 10vh;
+}
+p{
+    text-align: center;
+}
+a{
+    border: 5px double rgb(0, 0, 0);
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    color: #6f0000;
+}
+img{
+    width: calc(100%);
+    height: 70vh;
+}
+.topTopic{
+    font-size: 2rem;
+    color: aliceblue;
+}
+
